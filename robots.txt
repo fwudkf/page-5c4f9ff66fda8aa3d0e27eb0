@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.tsgbbcl.cn/sitemap.xml
